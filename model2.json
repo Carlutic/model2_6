@@ -1,6 +1,6 @@
 [
  {
-  "id": 180029,
+  "id": 180628,
   "name": "Akikoloid",
   "displayName": "Akikoloid（魅魔装）",
   "weaponType": "",
@@ -14,7 +14,7 @@
   "base": "https://carlutic.github.io/model2_6/"
  },
  {
-  "id": 180032,
+  "id": 180629,
   "name": "Avanna",
   "displayName": "Avanna（魅魔装）",
   "weaponType": "",
@@ -28,7 +28,7 @@
   "base": "https://carlutic.github.io/model2_6/"
  },
  {
-  "id": 180035,
+  "id": 180630,
   "name": "Clara",
   "displayName": "Clara（魅魔装） - High",
   "weaponType": "",
@@ -42,7 +42,7 @@
   "base": "https://carlutic.github.io/model2_6/"
  },
  {
-  "id": 180046,
+  "id": 180631,
   "name": "Ruby",
   "displayName": "Ruby（魅魔装） - High",
   "weaponType": "",
@@ -56,7 +56,7 @@
   "base": "https://carlutic.github.io/model2_6/"
  },
  {
-  "id": 180047,
+  "id": 180632,
   "name": "Sasara",
   "displayName": "Sasara（魅魔装）",
   "weaponType": "",
