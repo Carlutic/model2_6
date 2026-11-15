@@ -1,0 +1,72 @@
+[
+ {
+  "id": 180029,
+  "name": "Akikoloid",
+  "displayName": "Akikoloid（魅魔装）",
+  "weaponType": "",
+  "element": "Model2",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/Akikoloid_8",
+  "image": "Covers/Akikoloid.png",
+  "pmx": "Succubus Akikoloid R18.pmx",
+  "base": "https://carlutic.github.io/model2_6/"
+ },
+ {
+  "id": 180032,
+  "name": "Avanna",
+  "displayName": "Avanna（魅魔装）",
+  "weaponType": "",
+  "element": "Model2",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/Avanna_9",
+  "image": "Covers/Avanna.png",
+  "pmx": "Succubus Avanna R18.pmx",
+  "base": "https://carlutic.github.io/model2_6/"
+ },
+ {
+  "id": 180035,
+  "name": "Clara",
+  "displayName": "Clara（魅魔装） - High",
+  "weaponType": "",
+  "element": "Model2",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/Clara_10",
+  "image": "Covers/Clara.png",
+  "pmx": "Succubus Clara R18 - High.pmx",
+  "base": "https://carlutic.github.io/model2_6/"
+ },
+ {
+  "id": 180046,
+  "name": "Ruby",
+  "displayName": "Ruby（魅魔装） - High",
+  "weaponType": "",
+  "element": "Model2",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/Ruby_11",
+  "image": "Covers/Ruby.png",
+  "pmx": "Succubus Ruby R18 - High.pmx",
+  "base": "https://carlutic.github.io/model2_6/"
+ },
+ {
+  "id": 180047,
+  "name": "Sasara",
+  "displayName": "Sasara（魅魔装）",
+  "weaponType": "",
+  "element": "Model2",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/Sasara_12",
+  "image": "Covers/Sasara.png",
+  "pmx": "Succubus Sasara R18.pmx",
+  "base": "https://carlutic.github.io/model2_6/"
+ }
+]
